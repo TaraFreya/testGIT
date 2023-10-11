@@ -1,0 +1,12 @@
+package test.com;
+
+//Put EGL Source File Contents Here
+Function test()
+	
+const constantName string = "literalString";
+const MODULE_NAME VpLogicalProgramName = "THIS-IS-A-PROGRAM-NAME-THAT-IS-LONGER-THAN-DEFINITION-ALLOWS";
+	
+end	 
+	
+dataitem VpLogicalProgramName char(36)
+end
